@@ -1,3 +1,3 @@
 # react-training-projects
 
-test
+Some small react projects to get my skills improved
