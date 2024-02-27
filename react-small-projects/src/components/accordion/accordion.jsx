@@ -4,7 +4,7 @@ import data from "./data";
 import React, { useState } from "react";
 import "./accordion.css";
 
-export default function Accordian() {
+export default function Accordion() {
   const [selected, setSelected] = useState(null);
   const [enableMultiSelection, setEnableMultiSelection] = useState(false);
   const [multiple, setMultiple] = useState([]);
